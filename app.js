@@ -161,12 +161,9 @@ app.post('/login', (req, res) => {
         }
     });
 });
-app.get('/test', (req, res) => {
-    res.send({
-        "status": ok
-    });
-})
-
+app.get('/', function (req, res) {
+		res.send('ok');
+});
 //Registrar usuario
 app.post('/register', (req, res) => {
     userExist(req.body, function(data) {
