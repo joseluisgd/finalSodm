@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "schema-ulimarket",
+  "private_key_id": "70f4658a1e61743a20f0364caee1e8c938396a8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1iR1MSl4W3qM9\nYnA9xnKA6QisSsjLSZe0qOynEMZuGgiK3fBkUsyIA+0CPQ1kxMCx6zh8/S+wjQqL\nRvhOzskfX/LIQ0bjD83BXGgvvK7e0+r/tBky9z/sYBD2MdDT973Rh9DULMZuzkL2\nw4zlXhNLvz7/JH/bn1k5J2ovpXuaS/+O4sWVcnkgoTgH3VkGCCCz3SGvLCmksZCq\nYwmOQQ3MP/kMbhpx3QCoeOJfAmJuuHtFcG/Qis/182VZRrwvCyxwOyv/TdI+U6C7\nJ2QFiMrF5bNkg20PdRIwYnUfvFu3JXyI0CvnJHMKFeutH68zedz4lnDIGSC/kmSe\nVcuucrUVAgMBAAECggEAa3gm3hlQpl1bamWyaP/onaRXvBfx01dX9l3i6+ykbF4B\nHKTTQbE64HLihua53SQVp77HDEefSffVfCqhqZYFvwtAYYpilt2uQ4B/NXOQWt4+\nSu7F1ERHlZoxsG5BYJtTxo2O9W0kdEiroAaYjNkqtzcbBlUHVG97lLhexqJDEE5a\nUh4hiLyMkxpyBN1Xmfi5Q1dOyACwB/Y1mukKK5i+g1rvcdwXKrmLenLyEaFohjPO\nzTi1Y1TURwKtfwZuMwWJGxFlP7R+H/lbAGjqdknXE84lDGkCYQ1/UymodAdwpuew\n5ko5t1FLEdnHXF8qeIqkKuzl5exIOAqSpQdHZ7nbKQKBgQDaXKdxZBOaFEEqYcZ1\n9BS8I02OWLXbkg3pSJz2LaU6+p+3RPaBgk1WbBYSTub31FdnL/wdD4wLcUrcc4Fv\nZ3rdIkEQ+i1BMrrz+r9i7ymR2vE+0j/8zlIz3xvNNIrh0iNpwyVc7LsaISldcoiq\nQth7Jw8TaQhki9A2pWkW55GHEwKBgQDU03o9OaGO2uvFY5U9rqT/RHqa+6xe/Ivx\nRnc+2xfUsS3nTF9tgCNR5e67f7a9Jms7sW1/IjZ5D7RDXemimbG4/ekALyWRtxot\n68itLP0mU4DO7KwzZDoGoOyGpvsg1Cdhm8YgFlQqDfYP8zTOEhOKdBpyt8w+fVm5\nbEoYZ3yQNwKBgEDcotQ4wOXUvGKldnkVDo+wANqWmTZmlQFFk3JArsLtLUIYFwzz\nMpvIMWowy8Sz6154T3AmbRf9CBqhqMH5v/ItuZwcZBLoycWtJupxVizAF0bs1xr2\nAk7sJ+r1f4eCjwhcch2/J/ij/xCF8/h3MKysNnsyiM6tBSUmTygBkyXHAoGBAIN1\ncT8aNwnHffS58zhbhP1MLjNHG4y8kDBjZ0rDCDBPlNwXF6bKjIaM8W6Nj7G8ZmZD\nzS/HUUBsC9vEyYivSNDMvbxoYttj717IEnetn1yqHZkzJZbE5PatNgxiXiJECWNI\nVhQB1tD3OLNXdZmIHtvZpXCQyS8cPGzFT+tNGOr3AoGAQ2GCDwbBKKZX5fWMwRAE\nzPoJ9cikkjKSMEd3SrcqnlnmRYfGOfekAcUKXjTaIroSR2p7+YXhL0m/24UTNDEE\nxXpzSbQkSK72y59rmqCxEJJIS7Nu/kD0Iof0FhE6gtfg0/GgjSikLm9D2GPvYHbB\ngL/OiavF1j1H1ZPj+mZ8r3A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ulimarket@schema-ulimarket.iam.gserviceaccount.com",
+  "client_id": "107319676567322180748",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ulimarket%40schema-ulimarket.iam.gserviceaccount.com"
+}
