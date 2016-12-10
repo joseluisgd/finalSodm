@@ -5,6 +5,7 @@ const nodemailer = require("nodemailer");
 const transporter = nodemailer.createTransport('smtps://servicioulimarket@gmail.com:ulimarket2016@smtp.gmail.com');
 const Mailgen = require('mailgen');
 var app = express();
+const port = process.env.PORT || 3000
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -161,8 +162,8 @@ app.post('/login', (req, res) => {
         }
     });
 });
-app.get('/', function (req, res) {
-		res.send('ok');
+app.get('/', function(req, res) {
+    res.send('ok');
 });
 //Registrar usuario
 app.post('/register', (req, res) => {
@@ -403,6 +404,6 @@ app.post('/forgotpassword', (req, res) => {
 
 
 
-app.listen(3000, () => {
+app.listen(port, () => {
     console.log('Puerto 3000');
 });
