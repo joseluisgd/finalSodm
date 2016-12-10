@@ -161,6 +161,11 @@ app.post('/login', (req, res) => {
         }
     });
 });
+app.get('/test', (req, res) => {
+    res.send({
+        "status": ok
+    });
+})
 
 //Registrar usuario
 app.post('/register', (req, res) => {
